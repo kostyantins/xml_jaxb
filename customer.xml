@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customerDepartment>
+    <name>Franek's Customers</name>
+    <location>Ivano-Frankivsk</location>
+    <department>
+        <departmentCustomer id="1">
+            <age>30</age>
+            <name>Markus Donald</name>
+        </departmentCustomer>
+        <departmentCustomer id="2">
+            <age>35</age>
+            <name>Daniel Robinson</name>
+        </departmentCustomer>
+    </department>
+</customerDepartment>
